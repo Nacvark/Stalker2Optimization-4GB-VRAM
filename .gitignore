@@ -1,0 +1,12 @@
+# Local development files, not part of the mod
+tools/
+presets/
+stock/
+backups/
+measurements/
+dist/
+publish/
+.tools/
+.claude/
+__pycache__/
+*.zip
