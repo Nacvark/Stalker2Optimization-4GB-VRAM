@@ -43,6 +43,10 @@ One more concession: textures get 512 MB, so on high settings distant surfaces s
 
 ## Example: the test machine
 
+<a href="https://youtu.be/R-9dOAEfwF0"><img src="https://img.youtube.com/vi/R-9dOAEfwF0/maxresdefault.jpg" alt="Video: without the mod and with the mod" width="640"></a>
+
+Video comparison: the same route without the mod and with it, Medium preset, XeSS at 50%.
+
 | | |
 | --- | --- |
 | Graphics card | GeForce GTX 1650 Super, 4 GB |

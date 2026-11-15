@@ -43,6 +43,10 @@
 
 ## Пример: на чём проверялось
 
+<a href="https://youtu.be/R-9dOAEfwF0"><img src="https://img.youtube.com/vi/R-9dOAEfwF0/maxresdefault.jpg" alt="Видео: без мода и с модом" width="640"></a>
+
+Видео сравнения: один и тот же маршрут без мода и с модом, пресет «Средние», XeSS 50 %.
+
 | | |
 | --- | --- |
 | Видеокарта | GeForce GTX 1650 Super, 4 ГБ |
